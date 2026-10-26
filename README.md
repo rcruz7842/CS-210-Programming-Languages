@@ -15,6 +15,7 @@ These projects gave me hands-on experience writing, testing, and debugging C++ p
 ---
 
 # Featured Project: Corner Grocer Item Tracker
+[View Corner Grocer C++ Project](Corner%20Grocer%20Item%20Tracker/)
 
 ## Project Summary
 
